@@ -1,0 +1,1 @@
+This is my GitHub. here I will upload the code from Jupyter Notebook. Feel free to test it out and let me know what works, what doesn't, and what you would like me to change/modify. Thank you in advance.
